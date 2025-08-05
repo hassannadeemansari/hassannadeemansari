@@ -1,6 +1,14 @@
-### 👋 Hi there! I'm Hassan Nadeem
+<h1 align="center">Hi there, I'm Hassan Nadeem 👋</h1>
+<p align="center">🌟 Front-End Developer | UI/UX Enthusiast | Passionate Coder</p>
 
-🚀 I'm a passionate front-end developer, always exploring cool web technologies and building modern UIs.
+---
+
+### 🚀 About Me
+
+- 🎯 I love building sleek, fast, and interactive websites
+- 🧠 Currently sharpening my skills in TypeScript and React frameworks
+- 🔍 Exploring AI & automation to build intelligent apps
+- 🌐 Portfolio: [hassan-nadeem.vercel.app](https://hassan-nadeem.vercel.app)
 
 ---
 
@@ -12,24 +20,35 @@
 
 ### 📊 GitHub Stats
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=tokyonight&hide_border=true)
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-### 🧠 Top Languages
+### 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📫 Connect with me
+### 📈 Contribution Graph
 
-- 💼 Portfolio: [hassan-nadeem.vercel.app](https://hassan-nadeem.vercel.app)
-- 📧 Email: hassannadeem.official@gmail.com
-- 💬 WhatsApp: [+92 3xx xxx xxxx](https://wa.me/YOUR_NUMBER)
+[![Hassan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassannadeemansari&theme=tokyo-night&hide_border=true)](https://github.com/hassannadeemansari)
 
 ---
 
-_✨ Let's build something amazing together!_
+### 📬 Connect with Me
 
--->
+- 💼 Portfolio: [hassan-nadeem.vercel.app](https://hassan-nadeem.vercel.app)
+- 📧 Email: hassannadeem.official@gmail.com
+- 💬 WhatsApp: [Click to chat](https://wa.me/923XXXXXXXXX)
+- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername) _(optional)_
+
+---
+
+### 👁️ Visitors Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hassannadeemansari&color=blue&style=flat)
+
+---
+
+_✨ Let’s connect and create amazing things together!_
