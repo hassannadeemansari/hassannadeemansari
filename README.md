@@ -39,8 +39,8 @@
 ### 📬 Connect with Me
 
 - 💼 Portfolio: [hassan-nadeem.vercel.app](https://hassan-nadeem.vercel.app)
-- 📧 Email: hassannadeem.official@gmail.com
-- 💬 WhatsApp: [Click to chat](https://wa.me/923XXXXXXXXX)
+- 📧 Email: hasssannann234@gmail.com
+- 💬 WhatsApp: [Click to chat](https://wa.me/923452524816)
 - 🐦 Twitter: [@yourusername](https://twitter.com/yourusername) _(optional)_
 
 ---
