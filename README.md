@@ -1,335 +1,85 @@
-Redesign my existing portfolio into a world-class premium digital developer portfolio.
+<div align="center">
 
-REFERENCE:
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=30&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Hassan+Nadeem;Digital+Developer;Premium+Websites+%26+Web+Applications;AI+%26+Automation+Systems" alt="Typing SVG" />
 
-* Current portfolio: https://hassann.vercel.app/
-* GitHub profile: https://github.com/hassannadeemansari
-* The GitHub README represents my personal visual identity: dark, technical, futuristic, cyan, energetic, AI-oriented.
-* Do NOT copy the GitHub README literally.
-* Transform its visual language into a sophisticated commercial website.
+<br/>
 
-CORE POSITIONING:
+**I design and build digital experiences that help businesses grow.**
+Premium websites, custom web applications, and AI-powered systems — built with modern engineering and a focus on commercial results.
 
-Hassan Nadeem
-Digital Developer · Web · AI · Automation
+<br/>
 
-Position me as an independent developer who builds premium digital products, web experiences, AI systems and business automation.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hassann.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-42ba382ba/)
+[![Email](https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasssannann234@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HassanA5069)
 
-The website must feel like a serious independent product engineer / digital builder, NOT a generic freelancer portfolio and NOT a template.
+</div>
 
-DESIGN REFERENCES / FEEL:
+<br/>
 
-* Linear
-* Vercel
-* Raycast
-* High-end AI startup websites
-* Premium product studios
-* Editorial technology websites
+## About
 
-VISUAL DIRECTION:
+Over 2.5+ years of hands-on development, I've focused on modern web technologies, interface design, custom web applications, and AI integration — moving from experimental projects into production software for real businesses.
 
-Background:
-#07090C
+Every project starts with the business goal, not the code. I work directly with clients, no account managers or relay messages in between.
 
-Surfaces:
-#0D1117
+- 🛠️ **Modern Web Development** — Next.js, React, TypeScript
+- 🎨 **UI/UX Design & Layouts** — clean, conversion-focused interfaces
+- ⚙️ **Custom Web Applications** — full-stack architecture, API integration
+- 🤖 **AI & Automation Systems** — LLM integration, agent workflows
+- 🚀 **Digital Products & APIs**
 
-Borders:
-#1A222C
+<br/>
 
-Primary accent:
-#00E5FF
+## Tech Stack
 
-Secondary accent:
-#00B8D4
+<div align="center">
 
-Main text:
-#F5F7FA
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,mongodb,graphql,python,vercel,git,figma&theme=dark" />
 
-Muted text:
-#8B95A5
+</div>
 
-Use cyan extremely intentionally.
+<br/>
 
-Do NOT create:
+## Selected Work
 
-* excessive neon glow
-* giant gradients
-* purple/pink cyberpunk aesthetic
-* excessive glassmorphism
-* generic portfolio cards
-* excessive rounded containers
-* colorful skill icons everywhere
-* fake statistics
-* fake testimonials
-* fake clients
-* fake revenue
-* unnecessary decorative sections
-* cheesy phrases such as "turning dreams into reality"
-* generic AI-generated marketing copy
+| Project | What it is | Stack |
+|---|---|---|
+| **[Elevix Visuals](https://elevixvisuals.com)** | Production client website for a visual media business — service presentation, portfolio display, client inquiries | Next.js · Framer Motion · Tailwind CSS |
+| **Shean Wears** | E-commerce brand showcase with clean product presentation and fluid responsive design | Next.js · GSAP · Tailwind CSS |
+| **Agentia World** | AI application showcase with interactive sections and a sleek dark-mode theme | Next.js · Framer Motion · Tailwind CSS |
+| **Infonet Services** | IT service management portal with clean cataloging and payment integration | Next.js · TypeScript · Chakra UI · Stripe |
 
-The visual system should feel expensive because of typography, spacing, hierarchy, motion and composition — not because of excessive effects.
+**[→ View full case studies on my portfolio](https://hassann.vercel.app)**
 
-TYPOGRAPHY:
+<br/>
 
-Use a premium modern sans-serif.
+## GitHub Stats
 
-Large editorial headlines.
+<div align="center">
 
-Strong contrast between:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" />
 
-* display typography
-* small technical labels
-* body copy
-* metadata
+<br/>
 
-Use uppercase technical labels sparingly.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 
-HERO:
+</div>
 
-Create an exceptional first viewport.
+<br/>
 
-Small label:
-HASSAN NADEEM / DIGITAL DEVELOPER
+## Let's Work Together
 
-Large headline:
+I'm currently available for select freelance and studio projects — websites, web applications, and AI/automation systems.
 
-"I build digital products, web experiences, and intelligent systems for businesses moving forward."
+<div align="center">
 
-Supporting text should be short and confident.
+[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-D4AF37?style=for-the-badge&logoColor=black)](https://hassann.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923452524816)
 
-Show:
-WEB DEVELOPMENT
-AI SYSTEMS
-AUTOMATION
-DIGITAL PRODUCTS
+<br/>
+<sub>Response time: within one business day</sub>
 
-Primary CTA:
-VIEW SELECTED WORK
-
-Secondary CTA:
-START A CONVERSATION
-
-Add an advanced computational / AI visual on the right side.
-
-The visual should feel like a sophisticated technical system or AI core, not a generic spinning 3D object.
-
-Use subtle cyan particles, nodes, data lines, grids or abstract computational geometry.
-
-It must remain elegant and performant.
-
-PROOF SECTION:
-
-Create a minimal proof strip:
-
-2.5+ YEARS
-Building for the web
-
-REAL CLIENT WORK
-Production projects
-
-WEB + AI
-Modern digital systems
-
-DIRECT
-Independent developer
-
-Do not invent numerical claims.
-
-SELECTED WORK:
-
-Make the portfolio projects the primary visual proof.
-
-Use large editorial case-study presentation rather than equal-sized cards.
-
-Feature Elevix Visuals first because it is real production client work.
-
-For each project show:
-
-* project name
-* category
-* short factual description
-* technology
-* large visual
-* live project link
-* case study/details
-
-Use:
-1 large featured project
-then
-smaller projects in an asymmetric editorial grid.
-
-Do not invent project results or business metrics.
-
-SERVICES:
-
-Create four strong service modules:
-
-01 — WEB EXPERIENCES
-02 — DIGITAL PRODUCTS
-03 — AI SYSTEMS
-04 — BUSINESS AUTOMATION
-
-Keep descriptions concise and commercially understandable.
-
-TECHNOLOGY:
-
-Do not use huge colorful icon walls.
-
-Create a sophisticated technical index.
-
-NEXT.JS
-REACT
-TYPESCRIPT
-NODE.JS
-TAILWIND
-GSAP
-PYTHON
-AI / LLM
-POSTGRESQL
-SANITY
-REST / GRAPHQL
-
-Use subtle hover interactions.
-
-ABOUT:
-
-Keep the factual information from my existing portfolio.
-
-Make the section personal, concise and credible.
-
-Core message:
-
-"I care about how software feels, how it performs, and what it actually does for the business behind it."
-
-Do not exaggerate experience.
-
-PROCESS:
-
-Present:
-
-01 DISCOVER
-02 STRATEGY
-03 DESIGN
-04 BUILD
-05 LAUNCH
-06 IMPROVE
-
-Make this a sophisticated timeline / system rather than six generic cards.
-
-GITHUB / BUILDER SECTION:
-
-Connect the portfolio to my GitHub identity.
-
-Headline:
-
-"Building in public. Exploring what's next."
-
-Show selected GitHub information or a visually designed developer activity section.
-
-Link directly to GitHub.
-
-CONTACT:
-
-Avoid generic CTA language.
-
-Use:
-
-"Have something worth building?"
-
-Supporting text:
-
-"Tell me what you're working on, what needs to improve, or what you want to build."
-
-Buttons:
-START A CONVERSATION
-VIEW GITHUB
-
-Include email, WhatsApp and LinkedIn.
-
-MOTION:
-
-Use Framer Motion / GSAP where appropriate.
-
-Animations should feel:
-
-* precise
-* fast
-* subtle
-* technical
-* intentional
-
-Use:
-
-* scroll reveal
-* subtle parallax
-* hover transformations
-* image movement
-* text reveal
-* ambient background motion
-
-Avoid:
-
-* excessive animation
-* slow cinematic transitions everywhere
-* distracting cursor effects
-* animation that hurts performance
-
-RESPONSIVENESS:
-
-The mobile experience must be designed intentionally, not simply compressed from desktop.
-
-The hero, project layouts, typography and navigation must remain premium on mobile.
-
-PERFORMANCE:
-
-Prioritize:
-
-* fast loading
-* optimized images
-* minimal JavaScript where possible
-* semantic HTML
-* accessible interactions
-* good Core Web Vitals
-* reduced-motion support
-
-CONTENT RULE:
-
-Use the factual content already present on my current portfolio.
-
-Do not invent:
-
-* clients
-* testimonials
-* revenue
-* number of users
-* years of experience beyond what is already stated
-* awards
-* partnerships
-* business results
-* fake case-study metrics
-
-IMPORTANT:
-
-Do not redesign this as a generic "developer portfolio."
-
-The final result should look like the personal website of a highly ambitious independent digital product builder who could work with startups, founders and established businesses.
-
-The visual identity should connect directly with my GitHub:
-
-DARK
-CYAN
-TECHNICAL
-FUTURISTIC
-AI
-ENGINEERING
-
-but the website itself must be more mature, restrained and premium.
-
-The final impression should be:
-
-"Serious builder. Strong taste. Modern engineering. Understands business."
-
-Do not add unnecessary sections simply to make the website longer.
-
-Every section must have a clear purpose.
+</div>
