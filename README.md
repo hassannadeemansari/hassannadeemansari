@@ -1,85 +1,261 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=30&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Hassan+Nadeem;Digital+Developer;Premium+Websites+%26+Web+Applications;AI+%26+Automation+Systems" alt="Typing SVG" />
+# HASSAN NADEEM
 
-<br/>
+### Digital Developer · Web · AI · Automation
 
-**I design and build digital experiences that help businesses grow.**
-Premium websites, custom web applications, and AI-powered systems — built with modern engineering and a focus on commercial results.
+**I build digital products, web experiences, and intelligent systems for businesses moving forward.**
 
-<br/>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hassann.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-42ba382ba/)
-[![Email](https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasssannann234@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HassanA5069)
+<a href="https://hassann.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=flat-square&logo=vercel&logoColor=black&labelColor=00E5FF" />
+</a>
+&nbsp;
+<a href="https://github.com/hassannadeemansari">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="mailto:hasssannann234@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
 
-</div>
+<br /><br />
 
-<br/>
-
-## About
-
-Over 2.5+ years of hands-on development, I've focused on modern web technologies, interface design, custom web applications, and AI integration — moving from experimental projects into production software for real businesses.
-
-Every project starts with the business goal, not the code. I work directly with clients, no account managers or relay messages in between.
-
-- 🛠️ **Modern Web Development** — Next.js, React, TypeScript
-- 🎨 **UI/UX Design & Layouts** — clean, conversion-focused interfaces
-- ⚙️ **Custom Web Applications** — full-stack architecture, API integration
-- 🤖 **AI & Automation Systems** — LLM integration, agent workflows
-- 🚀 **Digital Products & APIs**
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,mongodb,graphql,python,vercel,git,figma&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%" />
 
 </div>
 
-<br/>
+<br />
 
-## Selected Work
+## / ABOUT
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Elevix Visuals](https://elevixvisuals.com)** | Production client website for a visual media business — service presentation, portfolio display, client inquiries | Next.js · Framer Motion · Tailwind CSS |
-| **Shean Wears** | E-commerce brand showcase with clean product presentation and fluid responsive design | Next.js · GSAP · Tailwind CSS |
-| **Agentia World** | AI application showcase with interactive sections and a sleek dark-mode theme | Next.js · Framer Motion · Tailwind CSS |
-| **Infonet Services** | IT service management portal with clean cataloging and payment integration | Next.js · TypeScript · Chakra UI · Stripe |
+I'm **Hassan Nadeem**, an independent digital developer focused on building modern web products, AI-powered experiences, and business automation systems.
 
-**[→ View full case studies on my portfolio](https://hassann.vercel.app)**
+I work across the intersection of:
 
-<br/>
+`WEB DEVELOPMENT` · `AI` · `AUTOMATION` · `DIGITAL PRODUCTS`
 
-## GitHub Stats
+I care about more than making software work.
+
+**It should be fast.
+It should feel good.
+It should solve a real problem.**
+
+<br />
+
+## / WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### WEB EXPERIENCES
+
+Modern websites and web applications designed around performance, usability and strong visual systems.
+
+`Next.js` `React` `TypeScript` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### AI SYSTEMS
+
+AI-powered interfaces, assistants and intelligent workflows built around practical business use cases.
+
+`LLM` `Agents` `Python` `OpenAI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### DIGITAL PRODUCTS
+
+From early concepts to polished production interfaces — turning ideas into working software.
+
+`React` `Next.js` `Node.js` `Sanity`
+
+</td>
+<td width="50%" valign="top">
+
+### AUTOMATION
+
+Connecting business processes, lead generation and software into systems that reduce repetitive work.
+
+`APIs` `Automation` `AI` `Integrations`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## / SELECTED WORK
+
+### ELEVIX VISUALS
+
+**Real-estate photo editing platform**
+
+A production website built for a real client in the real-estate photography industry.
+
+**Focus**
+
+`WEB DEVELOPMENT` · `UI` · `PERFORMANCE` · `CONTACT SYSTEM`
+
+**Built with**
+
+`Next.js` `React` `Tailwind CSS` `Framer Motion` `Resend`
+
+→ **[View Project](https://elevixvisuals.vercel.app/)**
+
+---
+
+### ARVYN
+
+**Premium e-commerce experience**
+
+A modern e-commerce system focused on product presentation, content management and a premium shopping experience.
+
+**Focus**
+
+`E-COMMERCE` · `CMS` · `DASHBOARD` · `PRODUCT SYSTEM`
+
+**Built with**
+
+`Next.js` `React` `TypeScript` `Prisma` `SQLite`
+
+→ **[View Repository](https://github.com/hassannadeemansari/arvyn)**
+
+---
+
+### INFINIZO
+
+**Digital systems for businesses going somewhere.**
+
+An evolving product and service ecosystem around web development, AI, automation and digital business systems.
+
+**Focus**
+
+`WEB` · `AI` · `AUTOMATION` · `DIGITAL SYSTEMS`
+
+→ **[View Repository](https://github.com/hassannadeemansari/infinizo)**
+
+<br />
+
+## / TECHNOLOGY
+
+### FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### BACKEND · AI · DATA
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,prisma" />
+</p>
+
+### TOOLS · PLATFORM
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
+### AI · AGENTIC SYSTEMS
+
+```text
+LLMs
+AI Agents
+OpenAI Agents SDK
+MCP
+Agentic AI
+Chainlit
+Streamlit
+```
+
+<br />
+
+## / GITHUB SIGNAL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=F5F7FA&rank_icon=github" height="170" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F5F7FA&langs_count=8" height="170" />
 
 </div>
 
-<br/>
-
-## Let's Work Together
-
-I'm currently available for select freelance and studio projects — websites, web applications, and AI/automation systems.
+<br />
 
 <div align="center">
 
-[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-D4AF37?style=for-the-badge&logoColor=black)](https://hassann.vercel.app)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923452524816)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F5F7FA&dates=8B95A5&currStreakNum=F5F7FA&sideNums=F5F7FA" />
 
-<br/>
-<sub>Response time: within one business day</sub>
+</div>
+
+<br />
+
+## / BUILDING PHILOSOPHY
+
+> **Good software doesn't need to shout.**
+>
+> It should communicate clearly, perform reliably, and make the problem it solves feel simpler.
+
+I prefer:
+
+* **Clear over complicated**
+* **Useful over decorative**
+* **Fast over bloated**
+* **Systems over isolated features**
+* **Real products over demos**
+
+<br />
+
+## / CURRENT DIRECTION
+
+```text
+→ Building modern web products
+→ Exploring agentic AI systems
+→ Designing business automation workflows
+→ Working with LLM-powered applications
+→ Turning ideas into production-ready software
+```
+
+<br />
+
+## / LET'S BUILD
+
+Have a product, business system, or idea worth building?
+
+**Let's talk.**
+
+<div align="center">
+
+<a href="https://hassann.vercel.app">
+  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="mailto:hasssannann234@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hassannadeem">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hassannadeemansari&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" />
+
+<br /><br />
+
+<sub>Building quietly. Shipping consistently.</sub>
 
 </div>
