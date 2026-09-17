@@ -1,172 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:D4AF37&height=220&section=header&text=HASSAN%20NADEEM&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=DIGITAL%20DEVELOPER%20•%20PREMIUM%20WEB%20%26%20AI%20SYSTEMS&descAlignY=58&descColor=D4AF37&animation=fadeIn" width="100%"/>
+HASSAN NADEEM
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+premium+web+experiences;Engineering+AI-powered+business+systems;Founder+%40+Infinizo+Studio" alt="Typing SVG" />
+DIGITAL DEVELOPER · WEB · AI · AUTOMATION
 
-<br/>
+<p>
+Building digital products, web experiences, and intelligent systems for businesses moving forward.
+</p>
 
-<img src="https://img.shields.io/badge/2.5%2B_YEARS-0A0E27?style=for-the-badge&labelColor=D4AF37&color=0A0E27" />
-<img src="https://img.shields.io/badge/REAL_CLIENT_WORK-0A0E27?style=for-the-badge&labelColor=D4AF37&color=0A0E27" />
-<img src="https://img.shields.io/badge/NEXT.JS_·_REACT_·_TYPESCRIPT-0A0E27?style=for-the-badge&labelColor=D4AF37&color=0A0E27" />
-<img src="https://img.shields.io/badge/AI_%26_AUTOMATION-0A0E27?style=for-the-badge&labelColor=D4AF37&color=0A0E27" />
+<br>
 
-<br/><br/>
+<a href="https://hassann.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/hassannadeem">
+  <img src="https://img.shields.io/badge/LINKEDIN-11161D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+</a>
+<a href="mailto:hasssannann234@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-11161D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hassann.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-42ba382ba/)
-[![Email](https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hasssannann234@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923452524816)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HassanA5069)
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hassannadeemansari&color=D4AF37&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090C,50:0D1117,100:00E5FF&height=120&section=header&animation=fadeIn" width="100%">
 
 </div>
 
-<br/>
+01 / PROFILE
 
-## About
+I'm Hassan Nadeem, an independent digital developer focused on modern web development, AI-powered applications, and business automation.
 
-I design and build digital experiences that help businesses grow — premium websites, custom web applications, and AI-powered systems, engineered around commercial outcomes, not just code.
+I build at the intersection of engineering, product thinking, and design — turning ideas into polished, useful software.
 
-Every project starts with the business goal: who it's for, what it needs to convert, and how it should scale. I work directly with clients — no account managers, no relay messages in between.
+2.5+ YEARS     BUILDING FOR THE WEB
+WEB            PRODUCTS · PLATFORMS · EXPERIENCES
+AI             AGENTS · LLMs · INTELLIGENT SYSTEMS
+AUTOMATION     WORKFLOWS · INTEGRATIONS · BUSINESS SYSTEMS
+
+02 / WHAT I BUILD
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**What I do**
-- 🛠️ Modern web development — Next.js, React, TypeScript
-- 🎨 UI/UX design — clean, conversion-focused interfaces
-- ⚙️ Custom web applications — full-stack, API integration
-- 🤖 AI & automation systems — LLM integration, agent workflows
+◈ WEB EXPERIENCES
+
+Premium websites and web applications focused on performance, usability, responsive design, and strong visual systems.
+
+Next.js · React · TypeScript · Tailwind
 
 </td>
 <td width="50%" valign="top">
 
-**Currently**
-- 🚀 Building **Infinizo** — a studio for web development, AI integration & automation
-- 📚 GIAIC Artificial Intelligence Program (2024–present)
-- 💼 Open to select freelance & studio projects
+◈ AI SYSTEMS
+
+Practical AI interfaces, assistants, agentic workflows, and LLM-powered applications built around real use cases.
+
+Python · LLM · Agents · OpenAI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+◈ DIGITAL PRODUCTS
+
+From concept to production — transforming ideas into functional digital products with thoughtful UX and maintainable engineering.
+
+React · Next.js · Node.js · Sanity
+
+</td>
+<td width="50%" valign="top">
+
+◈ AUTOMATION
+
+Connected systems that reduce repetitive work and bring business processes, data, communication, and software together.
+
+APIs · Integrations · Automation · AI
 
 </td>
 </tr>
 </table>
 
-<br/>
+03 / SELECTED WORK
 
-## Tech Stack
+ELEVIX VISUALS
 
-<div align="center">
+Real-estate photo editing platform
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,mongodb,graphql,python,vercel,git,figma&theme=dark" />
+A production website built for a real client in the real-estate photography industry.
 
-</div>
+Next.js React Tailwind Framer Motion Resend
 
-<br/>
+→ VIEW PROJECT
 
-## Selected Work
+ARVYN
+
+Premium e-commerce system
+
+A modern e-commerce experience with product management, stock, orders, offers, categories, and dashboard-driven content.
+
+Next.js React TypeScript Prisma SQLite
+
+→ VIEW REPOSITORY
+
+INFINIZO
+
+Digital systems for businesses going somewhere.
+
+A developing ecosystem focused on web development, AI, automation, and digital business systems.
+
+Web AI Automation Digital Systems
+
+→ VIEW REPOSITORY
+
+04 / TECHNOLOGY
+
+FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies">
+</p>
+
+BACKEND · DATA · TOOLS
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,prisma,git,github,figma,vercel,postman" alt="Backend and tools">
+</p>
+
+AI · AGENTIC SYSTEMS
+
+LLMs                  AI AGENTS
+OpenAI Agents SDK     MCP
+Agentic AI            Chainlit
+Streamlit             AI APPLICATIONS
+
+05 / ENGINEERING PRINCIPLES
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://hassann.vercel.app/_next/image?url=%2Felevix.PNG&w=1920&q=75" width="100%"/>
-</td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Elevix Visuals
-**Production Client Website**
+01
 
-Digital services platform built for a visual media business — service presentation, high-resolution portfolio display, and client inquiry capture.
-
-`Next.js` `Framer Motion` `Tailwind CSS` `Resend API`
-
-**[Visit Live Site →](https://elevixvisuals.com)**
+CLARITY
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://hassann.vercel.app/_next/image?url=%2Fshean1.PNG&w=1920&q=75" width="100%"/>
-</td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Shean Wears
-**E-Commerce Brand Showcase**
+02
 
-Product-first e-commerce experience with clean visual merchandising and fluid, responsive motion design.
-
-`Next.js` `GSAP` `Tailwind CSS`
+PERFORMANCE
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://hassann.vercel.app/_next/image?url=%2Fagentia.PNG&w=1920&q=75" width="100%"/>
-</td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Agentia World
-**AI Application Showcase**
+03
 
-Modern platform highlighting AI agent capabilities through interactive sections and a sleek dark-mode interface.
-
-`Next.js` `Framer Motion` `Tailwind CSS`
+USEFULNESS
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://hassann.vercel.app/_next/image?url=%2Finfonet.PNG&w=1920&q=75" width="100%"/>
-</td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Infonet Services
-**IT Solutions Portal**
+04
 
-Service management portal with structured cataloging, responsive UI, and integrated payment flows.
-
-`Next.js` `TypeScript` `Chakra UI` `Stripe`
+CRAFT
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+Good software doesn't need to shout.
+It should communicate clearly, perform reliably, and make the problem it solves feel simpler.
 
-**[→ View every case study on my portfolio](https://hassann.vercel.app)**
+06 / CURRENTLY BUILDING
 
-</div>
+▸ Modern web products
+▸ AI-powered applications
+▸ Agentic AI systems
+▸ Business automation workflows
+▸ Lead-generation and operational systems
+▸ Production-ready digital experiences
 
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0A0E27&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0A0E27&title_color=D4AF37&text_color=c9d1d9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&theme=github-dark-blue&hide_border=true&background=0A0E27&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hassannadeemansari&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassannadeemansari&theme=github-compact&bg_color=0A0E27&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## Let's Work Together
-
-I'm currently available for select freelance and studio projects — websites, web applications, and AI/automation systems.
+07 / GITHUB ACTIVITY
 
 <div align="center">
 
-[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-D4AF37?style=for-the-badge&logoColor=black)](https://hassann.vercel.app)
+<img src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&hide_border=true&bg_color=07090C&title_color=00E5FF&icon_color=00E5FF&text_color=F5F7FA&rank_icon=github&custom_title=BUILDING%20SIGNAL" height="170">
 
-<sub>Response time: within one business day</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&hide_border=true&bg_color=07090C&title_color=00E5FF&text_color=F5F7FA&langs_count=8&custom_title=TECH%20SIGNAL" height="170">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&hide_border=true&background=07090C&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F5F7FA&dates=8B95A5&currStreakNum=F5F7FA&sideNums=F5F7FA" alt="GitHub streak">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:D4AF37&height=120&section=footer&reversal=true" width="100%"/>
+08 / LET'S BUILD
+
+<div align="center">
+
+HAVE SOMETHING WORTH BUILDING?
+
+Tell me what you're working on, what needs to improve, or what you want to build.
+
+<br>
+
+<a href="https://hassann.vercel.app">
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Explore portfolio">
+</a>
+
+<a href="mailto:hasssannann234@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-11161D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Start a conversation">
+</a>
+
+<br><br>
+
+<a href="https://github.com/hassannadeemansari">
+  <img src="https://komarev.com/ghpvc/?username=hassannadeemansari&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views">
+</a>
+
+<br><br>
+
+<sub>BUILDING QUIETLY · SHIPPING CONSISTENTLY</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0D1117,100:07090C&height=100&section=footer&reversal=true" width="100%">
