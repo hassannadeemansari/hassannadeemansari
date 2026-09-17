@@ -1,124 +1,335 @@
-<div align="center">
+Redesign my existing portfolio into a world-class premium digital developer portfolio.
 
-<!-- 🌌 NEON WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0047AB,100:00BFFF&height=250&section=header&text=HASSAN%20NADEEM&fontSize=80&fontAlignY=65&desc=FRONTEND%20INNOVATOR%20•%20UI%2FUX%20ENGINEER&descAlignY=90&fontColor=00EFFF&animation=fadeIn" />
+REFERENCE:
 
-<!-- ⚡ TYPING INTRO -->
-<div style="background: linear-gradient(90deg, #001F3F, #003366, #0047AB); padding: 20px; border-radius: 25px; margin: 30px 0; border: 2px solid #00EFFF; box-shadow: 0 0 35px #00EFFF;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=800&height=60&lines=🚀+Turning+Ideas+into+Reality;💡+Building+Futuristic+Web+Experiences;🧠+Designing+for+Performance+and+Emotion;🔥+Driven+by+Code,+Fueled+by+Creativity" alt="Typing SVG" />
-</div>
+* Current portfolio: https://hassann.vercel.app/
+* GitHub profile: https://github.com/hassannadeemansari
+* The GitHub README represents my personal visual identity: dark, technical, futuristic, cyan, energetic, AI-oriented.
+* Do NOT copy the GitHub README literally.
+* Transform its visual language into a sophisticated commercial website.
 
-<!-- 🧠 STATS ZONE -->
-<div style="background: linear-gradient(145deg, #0d1117, #1a1f2e); padding: 40px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 50px rgba(0, 191, 255, 0.3); margin: 30px 0;">
+CORE POSITIONING:
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=hassannadeemansari&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00EFFF&icon_color=00EFFF&text_color=ffffff&custom_title=⚡+PERFORMANCE+STATS" />
-    </td>
-    <td align="center" width="33%">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hassannadeemansari&theme=react&hide_border=true&background=0d1117&ring=00EFFF&fire=00EFFF&currStreakLabel=00EFFF&dates=ffffff" />
-    </td>
-    <td align="center" width="33%">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannadeemansari&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00EFFF&text_color=ffffff&langs_count=8&custom_title=💻+TOP+TECH+STACKS" />
-    </td>
-  </tr>
-</table>
+Hassan Nadeem
+Digital Developer · Web · AI · Automation
 
-</div>
+Position me as an independent developer who builds premium digital products, web experiences, AI systems and business automation.
 
-<!-- 🌍 ACTIVITY GRAPH -->
-<div style="background: linear-gradient(145deg, #0d1117, #1a1f2e); padding: 40px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 50px rgba(0,191,255,0.3); margin: 30px 0;">
+The website must feel like a serious independent product engineer / digital builder, NOT a generic freelancer portfolio and NOT a template.
 
-[![Hassan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassannadeemansari&custom_title=🚀+CODING+JOURNEY&theme=react-dark&bg_color=0d1117&hide_border=true&line=00EFFF&point=00EFFF&area=true&area_color=00EFFF33)](https://github.com/hassannadeemansari)
+DESIGN REFERENCES / FEEL:
 
-</div>
+* Linear
+* Vercel
+* Raycast
+* High-end AI startup websites
+* Premium product studios
+* Editorial technology websites
 
-<!-- 🧩 TECH STACK -->
-<div style="background: linear-gradient(145deg, #0d1117, #1a1f2e); padding: 50px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 50px rgba(0,191,255,0.4); margin: 30px 0;">
-<h2 align="center" style="color:#00EFFF; text-shadow: 0 0 20px #00EFFF;">⚙️ TECH ARSENAL</h2>
+VISUAL DIRECTION:
 
-<h3 align="center" style="color:#00EFFF; font-size:24px;">💻 FRONTEND DOMINATION</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vue,html,css,tailwind,figma&theme=dark" />
-</p>
+Background:
+#07090C
 
-<h3 align="center" style="color:#00EFFF; font-size:24px;">🧠 BACKEND & TOOLS</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,vercel,netlify,postman&theme=dark" />
-</p>
-</div>
+Surfaces:
+#0D1117
 
-<!-- 📬 CONTACT -->
-<div style="background: linear-gradient(135deg, #001F3F, #0047AB, #0077FF); padding: 50px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 60px rgba(0,191,255,0.6); margin: 40px 0;">
-<h2 align="center" style="color:white; text-shadow: 0 0 25px #00EFFF; font-size:32px;">📬 LET’S CONNECT</h2>
+Borders:
+#1A222C
 
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
-      <a href="https://hassan-nadeem.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00EFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:hasssannann234@gmail.com">
-        <img src="https://img.shields.io/badge/📧_EMAIL-00EFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top:20px;">
-      <a href="https://wa.me/923452524816">
-        <img src="https://img.shields.io/badge/💬_WHATSAPP-00EFFF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
-      </a>
-    </td>
-    <td align="center" style="padding-top:20px;">
-      <a href="https://linkedin.com/in/hassannadeem">
-        <img src="https://img.shields.io/badge/💼_LINKEDIN-00EFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+Primary accent:
+#00E5FF
 
-<p align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=hassannadeemansari&color=00EFFF&style=for-the-badge&label=VISITORS+COUNT+⚡&labelColor=0d1117" />
-</p>
-</div>
+Secondary accent:
+#00B8D4
 
-<!-- 🧠 PHILOSOPHY -->
-<div style="background: linear-gradient(145deg, #0d1117, #1a1f2e); padding: 50px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 50px rgba(0,191,255,0.3); margin: 30px 0;">
-<h2 align="center" style="color:#00EFFF; text-shadow: 0 0 20px #00EFFF;">💭 DEVELOPMENT PHILOSOPHY</h2>
+Main text:
+#F5F7FA
 
-<p align="center" style="color:white; font-size:20px; font-weight:600; line-height:1.6;">
-"Code is not just logic — it’s art, precision, and vision.<br>
-I don’t just build websites, I craft immersive digital realities.<br>
-Every project I touch carries a spark of innovation and purpose." ⚡
-</p>
-</div>
+Muted text:
+#8B95A5
 
-<!-- 🏆 TROPHIES -->
-<div style="background: linear-gradient(145deg, #0d1117, #1a1f2e); padding: 40px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 50px rgba(0,191,255,0.3); margin: 30px 0;">
-<h2 align="center" style="color:#00EFFF; text-shadow:0 0 20px #00EFFF;">🏆 GITHUB TROPHIES</h2>
+Use cyan extremely intentionally.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hassannadeemansari&theme=onestar&no-frame=true&row=1&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+Do NOT create:
 
-<!-- ⚡ CALL TO ACTION -->
-<div style="background: linear-gradient(135deg, #001F3F, #0047AB, #0077FF); padding: 40px; border-radius: 30px; border: 2px solid #00EFFF; box-shadow: 0 0 60px rgba(0,191,255,0.6); margin: 40px 0;">
-<h2 align="center" style="color:white; font-size:38px; text-shadow:0 0 25px #00EFFF;">
-⚡ READY TO BUILD SOMETHING EXTRAORDINARY? ⚡
-</h2>
-<p align="center" style="color:white; font-size:18px; font-weight:600;">
-Let’s bring your vision to life with innovation and precision 🚀
-</p>
-</div>
+* excessive neon glow
+* giant gradients
+* purple/pink cyberpunk aesthetic
+* excessive glassmorphism
+* generic portfolio cards
+* excessive rounded containers
+* colorful skill icons everywhere
+* fake statistics
+* fake testimonials
+* fake clients
+* fake revenue
+* unnecessary decorative sections
+* cheesy phrases such as "turning dreams into reality"
+* generic AI-generated marketing copy
 
-<!-- 🌊 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0047AB,100:00BFFF&height=150&section=footer&reversal=true&animation=fadeIn" />
+The visual system should feel expensive because of typography, spacing, hierarchy, motion and composition — not because of excessive effects.
 
-<div align="center" style="margin-top: 20px;">
-  <p style="color:#00EFFF;font-size:16px;"><strong>Crafted with ⚡ Energy and ☕ Coffee • Last updated: October 2025</strong></p>
-  <p style="color:#00EFFF;font-size:14px;">Thanks for visiting my digital universe 🌌</p>
-</div>
+TYPOGRAPHY:
 
-</div>
+Use a premium modern sans-serif.
+
+Large editorial headlines.
+
+Strong contrast between:
+
+* display typography
+* small technical labels
+* body copy
+* metadata
+
+Use uppercase technical labels sparingly.
+
+HERO:
+
+Create an exceptional first viewport.
+
+Small label:
+HASSAN NADEEM / DIGITAL DEVELOPER
+
+Large headline:
+
+"I build digital products, web experiences, and intelligent systems for businesses moving forward."
+
+Supporting text should be short and confident.
+
+Show:
+WEB DEVELOPMENT
+AI SYSTEMS
+AUTOMATION
+DIGITAL PRODUCTS
+
+Primary CTA:
+VIEW SELECTED WORK
+
+Secondary CTA:
+START A CONVERSATION
+
+Add an advanced computational / AI visual on the right side.
+
+The visual should feel like a sophisticated technical system or AI core, not a generic spinning 3D object.
+
+Use subtle cyan particles, nodes, data lines, grids or abstract computational geometry.
+
+It must remain elegant and performant.
+
+PROOF SECTION:
+
+Create a minimal proof strip:
+
+2.5+ YEARS
+Building for the web
+
+REAL CLIENT WORK
+Production projects
+
+WEB + AI
+Modern digital systems
+
+DIRECT
+Independent developer
+
+Do not invent numerical claims.
+
+SELECTED WORK:
+
+Make the portfolio projects the primary visual proof.
+
+Use large editorial case-study presentation rather than equal-sized cards.
+
+Feature Elevix Visuals first because it is real production client work.
+
+For each project show:
+
+* project name
+* category
+* short factual description
+* technology
+* large visual
+* live project link
+* case study/details
+
+Use:
+1 large featured project
+then
+smaller projects in an asymmetric editorial grid.
+
+Do not invent project results or business metrics.
+
+SERVICES:
+
+Create four strong service modules:
+
+01 — WEB EXPERIENCES
+02 — DIGITAL PRODUCTS
+03 — AI SYSTEMS
+04 — BUSINESS AUTOMATION
+
+Keep descriptions concise and commercially understandable.
+
+TECHNOLOGY:
+
+Do not use huge colorful icon walls.
+
+Create a sophisticated technical index.
+
+NEXT.JS
+REACT
+TYPESCRIPT
+NODE.JS
+TAILWIND
+GSAP
+PYTHON
+AI / LLM
+POSTGRESQL
+SANITY
+REST / GRAPHQL
+
+Use subtle hover interactions.
+
+ABOUT:
+
+Keep the factual information from my existing portfolio.
+
+Make the section personal, concise and credible.
+
+Core message:
+
+"I care about how software feels, how it performs, and what it actually does for the business behind it."
+
+Do not exaggerate experience.
+
+PROCESS:
+
+Present:
+
+01 DISCOVER
+02 STRATEGY
+03 DESIGN
+04 BUILD
+05 LAUNCH
+06 IMPROVE
+
+Make this a sophisticated timeline / system rather than six generic cards.
+
+GITHUB / BUILDER SECTION:
+
+Connect the portfolio to my GitHub identity.
+
+Headline:
+
+"Building in public. Exploring what's next."
+
+Show selected GitHub information or a visually designed developer activity section.
+
+Link directly to GitHub.
+
+CONTACT:
+
+Avoid generic CTA language.
+
+Use:
+
+"Have something worth building?"
+
+Supporting text:
+
+"Tell me what you're working on, what needs to improve, or what you want to build."
+
+Buttons:
+START A CONVERSATION
+VIEW GITHUB
+
+Include email, WhatsApp and LinkedIn.
+
+MOTION:
+
+Use Framer Motion / GSAP where appropriate.
+
+Animations should feel:
+
+* precise
+* fast
+* subtle
+* technical
+* intentional
+
+Use:
+
+* scroll reveal
+* subtle parallax
+* hover transformations
+* image movement
+* text reveal
+* ambient background motion
+
+Avoid:
+
+* excessive animation
+* slow cinematic transitions everywhere
+* distracting cursor effects
+* animation that hurts performance
+
+RESPONSIVENESS:
+
+The mobile experience must be designed intentionally, not simply compressed from desktop.
+
+The hero, project layouts, typography and navigation must remain premium on mobile.
+
+PERFORMANCE:
+
+Prioritize:
+
+* fast loading
+* optimized images
+* minimal JavaScript where possible
+* semantic HTML
+* accessible interactions
+* good Core Web Vitals
+* reduced-motion support
+
+CONTENT RULE:
+
+Use the factual content already present on my current portfolio.
+
+Do not invent:
+
+* clients
+* testimonials
+* revenue
+* number of users
+* years of experience beyond what is already stated
+* awards
+* partnerships
+* business results
+* fake case-study metrics
+
+IMPORTANT:
+
+Do not redesign this as a generic "developer portfolio."
+
+The final result should look like the personal website of a highly ambitious independent digital product builder who could work with startups, founders and established businesses.
+
+The visual identity should connect directly with my GitHub:
+
+DARK
+CYAN
+TECHNICAL
+FUTURISTIC
+AI
+ENGINEERING
+
+but the website itself must be more mature, restrained and premium.
+
+The final impression should be:
+
+"Serious builder. Strong taste. Modern engineering. Understands business."
+
+Do not add unnecessary sections simply to make the website longer.
+
+Every section must have a clear purpose.
